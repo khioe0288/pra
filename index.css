@@ -9,6 +9,7 @@ h3{
     font-size: 25px;
 }
 div{
+    display: inline-block;
     border: 8px solid rgb(114, 15, 15);
     margin: 30px;
     padding: 20px;
