@@ -1,0 +1,22 @@
+h1{
+    color:rgb(26, 161, 116);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: oblique;
+    font-size: 60px;
+}
+h3{
+    font-size: 25px;
+}
+div{
+    border: 8px solid rgb(114, 15, 15);
+    margin: 30px;
+    padding: 20px;
+    width: 350px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+#lo{
+    text-align: justify;
+    font-size: 15px;
+}
